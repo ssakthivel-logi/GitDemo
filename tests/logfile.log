@@ -1,0 +1,118 @@
+2021-05-19 21:18:50,559 :INFO :test_e2e : Selecting all the products
+2021-05-19 21:18:50,647 :INFO :test_e2e : Add item to the cart
+2021-05-19 21:18:50,727 :INFO :test_e2e : clicking on the check out button
+2021-05-19 21:18:50,775 :INFO :test_e2e : entering the country name
+2021-05-19 21:18:55,995 :INFO :test_e2e : selecting india country
+2021-05-19 21:18:56,098 :DEBUG :test_e2e : checking whether order is placed successfully
+2021-05-19 21:25:12,802 :INFO :test_e2e : Selecting all the products
+2021-05-19 21:25:12,882 :INFO :test_e2e : Add item to the cart
+2021-05-19 21:25:12,962 :INFO :test_e2e : clicking on the check out button
+2021-05-19 21:25:13,002 :INFO :test_e2e : entering the country name
+2021-05-19 21:25:18,221 :INFO :test_e2e : selecting india country
+2021-05-19 21:25:57,249 :INFO :test_e2e : Selecting all the products
+2021-05-19 21:25:57,321 :INFO :test_e2e : Add item to the cart
+2021-05-19 21:25:57,409 :INFO :test_e2e : clicking on the check out button
+2021-05-19 21:25:57,449 :INFO :test_e2e : entering the country name
+2021-05-19 21:26:02,671 :INFO :test_e2e : selecting india country
+2021-05-19 21:26:02,785 :INFO :test_e2e : Test Received is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-19 21:30:45,019 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-19 21:30:48,381 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-19 21:30:48,381 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-19 21:40:14,967 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-19 21:40:18,338 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-19 21:40:18,338 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-19 21:40:21,651 :INFO :test_e2e : Selecting all the products
+2021-05-19 21:40:21,722 :INFO :test_e2e : Add item to the cart
+2021-05-19 21:40:21,802 :INFO :test_e2e : clicking on the check out button
+2021-05-19 21:40:21,850 :INFO :test_e2e : entering the country name
+2021-05-19 21:40:27,114 :INFO :test_e2e : selecting india country
+2021-05-19 21:40:27,242 :INFO :test_e2e : Test Received is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-19 21:43:47,781 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-19 21:43:51,155 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-19 21:43:51,155 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-19 21:43:54,623 :INFO :test_e2e : Selecting all the products
+2021-05-19 21:43:54,695 :INFO :test_e2e : Add item to the cart
+2021-05-19 21:43:54,775 :INFO :test_e2e : clicking on the check out button
+2021-05-19 21:43:54,815 :INFO :test_e2e : entering the country name
+2021-05-19 21:44:00,041 :INFO :test_e2e : selecting india country
+2021-05-19 21:44:00,177 :INFO :test_e2e : Test Received is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-19 22:00:59,187 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-19 22:01:02,577 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-19 22:01:02,577 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-19 22:01:05,937 :INFO :test_e2e : Selecting all the products
+2021-05-19 22:01:06,008 :INFO :test_e2e : Add item to the cart
+2021-05-19 22:01:06,098 :INFO :test_e2e : clicking on the check out button
+2021-05-19 22:01:06,146 :INFO :test_e2e : entering the country name
+2021-05-19 22:01:11,329 :INFO :test_e2e : selecting india country
+2021-05-19 22:01:11,446 :INFO :test_e2e : Test Received is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-21 08:47:10,055 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-21 08:47:13,485 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-21 08:47:13,485 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-21 08:47:17,000 :INFO :test_e2e : Selecting all the products
+2021-05-21 08:47:17,072 :INFO :test_e2e : Add item to the cart
+2021-05-21 08:47:17,160 :INFO :test_e2e : clicking on the check out button
+2021-05-21 08:47:17,208 :INFO :test_e2e : entering the country name
+2021-05-21 08:47:22,458 :INFO :test_e2e : selecting india country
+2021-05-21 08:47:22,578 :INFO :test_e2e : Test Received is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-21 22:01:49,138 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-21 22:01:55,792 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-21 22:01:55,792 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-21 22:04:30,892 :INFO :test_e2e : Selecting all the products
+2021-05-21 22:04:31,780 :INFO :test_e2e : Add item to the cart
+2021-05-21 22:04:32,729 :INFO :test_e2e : clicking on the check out button
+2021-05-21 22:04:33,341 :INFO :test_e2e : entering the country name
+2021-05-21 22:04:39,183 :INFO :test_e2e : selecting india country
+2021-05-21 22:04:40,435 :INFO :test_e2e : Test Received is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-21 22:07:31,780 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-21 22:07:38,146 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-21 22:07:38,146 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
+2021-05-21 22:08:00,823 :INFO :test_e2e : Selecting all the products
+2021-05-21 22:08:01,452 :INFO :test_e2e : Add item to the cart
+2021-05-21 22:08:02,255 :INFO :test_e2e : clicking on the check out button
+2021-05-21 22:08:02,678 :INFO :test_e2e : entering the country name
+2021-05-21 22:08:08,291 :INFO :test_e2e : selecting india country
+2021-05-21 22:08:09,368 :INFO :test_e2e : Test Received is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-21 22:16:15,618 :INFO :test_e2e : Selecting all the products
+2021-05-21 22:16:16,262 :INFO :test_e2e : Add item to the cart
+2021-05-21 22:16:17,024 :INFO :test_e2e : clicking on the check out button
+2021-05-21 22:16:17,431 :INFO :test_e2e : entering the country name
+2021-05-21 22:16:23,396 :INFO :test_e2e : selecting india country
+2021-05-21 22:16:24,525 :INFO :test_e2e : Test Received is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-22 10:57:33,960 :INFO :test_e2e : Selecting all the products
+2021-05-22 10:57:34,040 :INFO :test_e2e : Add item to the cart
+2021-05-22 10:57:34,120 :INFO :test_e2e : clicking on the check out button
+2021-05-22 10:57:34,160 :INFO :test_e2e : entering the country name
+2021-05-22 10:57:39,426 :INFO :test_e2e : selecting india country
+2021-05-22 10:57:39,566 :INFO :test_e2e : Test Received is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-23 12:37:58,390 :INFO :test_formSubmission : Text received is×
+Success! The Form has been submitted successfully!.
