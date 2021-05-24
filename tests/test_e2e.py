@@ -39,6 +39,7 @@ class TestOne(BaseClass):
         # explict wait for country search
         self.verifyElementLocatedUsingLinkText("India")
         log.info("selecting india country")
+        log.info("selecting india country2")
         confirm_page.countrySelection().click()
         # clicking on checkbox
         self.driver.find_element_by_xpath("//div[@class='checkbox checkbox-primary']").click()
